@@ -1,0 +1,20 @@
+{
+    "fromName":"Adom",
+    "subject":"Birthday Invitation",
+    "replyToEmail":"",
+    "smtpRotate": 0,
+    "attachment":0,
+    "htmlToPdf":false,
+    "attachmentPDF":false,
+    "attachmentName":"default",
+    "attachment_zip":0,
+    "delaySec":1,
+    "threads":1,
+    "headerPriority":2,
+    "letterType":1,
+    "qrBarCode":1,
+    "codeURL":"https://example.com/login/",
+    "SMTP":1, 
+    "mailGun":0,
+    "sendInBlue":0
+}

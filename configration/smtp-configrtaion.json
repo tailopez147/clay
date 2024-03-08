@@ -1,0 +1,10 @@
+[
+    {
+     "host": "host.example.com",
+     "port": "587",
+     "user":"user@gmail.com",
+     "pass": "password@123",
+     "fromEmail":"fromEmail@gmail.com"
+     }
+        
+]
